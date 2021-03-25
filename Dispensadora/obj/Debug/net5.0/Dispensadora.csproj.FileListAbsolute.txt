@@ -1,0 +1,16 @@
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.csprojAssemblyReference.cache
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.AssemblyInfoInputs.cache
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.AssemblyInfo.cs
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.csproj.CoreCompileInputs.cache
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.exe
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.deps.json
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.runtimeconfig.json
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.runtimeconfig.dev.json
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.dll
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\ref\Dispensadora.dll
+C:\Users\Belkis Bueno\Documents\Dispensadora\bin\Debug\net5.0\Dispensadora.pdb
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.dll
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\ref\Dispensadora.dll
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.pdb
+C:\Users\Belkis Bueno\Documents\Dispensadora\obj\Debug\net5.0\Dispensadora.genruntimeconfig.cache
